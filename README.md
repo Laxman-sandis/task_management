@@ -22,7 +22,7 @@ A simple yet powerful Task Management application built using **Flutter** with *
 ### Steps
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/your-username/task_management_app.git
+    git clone https://github.com/Laxman-sandis/task_management.git
     cd task_management_app
     ```
 
